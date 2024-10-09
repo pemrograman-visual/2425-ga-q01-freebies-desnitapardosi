@@ -3,9 +3,6 @@
 import java.util.*;
 import java.lang.Math;
 
-import java.util.*;
-import java.lang.Math;
-
 public class X01 {
     private static Scanner input = new Scanner(System.in);
 
